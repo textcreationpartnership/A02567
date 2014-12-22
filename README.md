@@ -36,9 +36,15 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-The Passion sermon preached at Paules Crosse, on Good-Friday. Apr. 14. 1609. By I.H.Passion-sermonHa
+
+1. TO THE ONELY HONOVR AND GLORIE OF GOD MY DEARE AND BLESSED SAVIOVR (WHICH HATH DONE AND SVFFERED ALL THESE THINGES FOR MY SOVLE.)
+
+1. To the Reader.
+
 #####Body#####
-The Passion sermon preached at Paules Crosse, on Good-Friday. Apr. 14. 1609. By I.H.Passion-sermonHa
+
+1. THE PASSION SERMON.
+
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
